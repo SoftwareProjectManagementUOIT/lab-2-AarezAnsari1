@@ -1,4 +1,4 @@
 Authors: 
-Aarez Ansari 100787149
-Syed Airaj Hussain 100789134
+Aarez Ansari 100787149 <br>
+Syed Airaj Hussain 100789134 <br>
 Prince Lucky-Worluh 100791723
